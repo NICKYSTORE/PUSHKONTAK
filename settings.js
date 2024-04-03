@@ -49,6 +49,7 @@ global.menu = `
 ⎙ Version   : 2.0
 ⎙ Framework : MD || Pairing Code
 ⎙ Subscribe for Updates : youtube.com/@NESF_NICKY
+⎙ MINAT SEWA ATAU BELI SCRIPT PM : 6282143965793
 
 
 MENU LIST:
@@ -59,6 +60,7 @@ MENU LIST:
 ➜ .savecontact
 ➜ .save
 ➜ .listidgc
+➜ .cekidgc
 ➜ .getidgc 
 ➜ .sendcontactname
 ➜ .cleardatabase
